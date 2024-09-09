@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi, I'm Adam Lucas.
+- I am an Applied Coastal and Ocean Sciences PhD student working under PI Dr. Phil Bresnahan in the UNCW COAST Lab.
+- My research focuses on developing a multiparameter optical sensor for measuring water quality, with the goal of distribution within participatory science networks.
+- In my free time I enjoy making music and doing a variety of outdoor activities (running, kayaking, rock climbing, etc.).  
 <!--
 **acl3053/acl3053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
